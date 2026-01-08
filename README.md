@@ -55,9 +55,6 @@ Create a `.env` file and define the following variables:
 GOOGLE_API_KEY="your_google_api_key_here"
 GOOGLE_SERVICE_ACCOUNT_JSON="path_to_your_service_account.json"
 ```
-**Note:** Never share your actual `.env` file in public repositories.
-
-**Note:** Keep the name of variables in your actual `.env` file same as given in `.env.example` file.
 
 ---
 ## Models & Technologies Used
